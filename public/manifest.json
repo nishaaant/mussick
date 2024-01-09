@@ -1,0 +1,48 @@
+{
+  
+  "theme_color" : "#f6b835",
+  "background_color" : "#fff",
+  "display" : "standalone",
+  "scope" : ".",
+  "start_url" : ".",
+  "name" : "Waves",
+  "short_name" : "Waves",
+  "description" : "Enjoy many relaxing songs",
+  "lang": "en-Us",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": true,
+
+"icons": [
+  {
+    "src": "images/icon/icon-64x64.png",
+    "type": "image/png",
+    "sizes": "64x64"
+    
+  },
+  {
+    "src": "favicon.png",
+    "sizes": "32x32 24x24 16x16",
+    "type": "image/png"
+  },
+  {
+    "src": "images/icon/icon-192x192.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  },
+  {
+    "src": "images/icon/icon-256x256.png",
+    "type": "image/png",
+    "sizes": "256x256"
+  },
+  {
+    "src": "images/icon/icon-384-384.png",
+    "type": "image/png",
+    "sizes": "384x384"
+  },
+  {
+    "src": "favicon.png",
+    "type": "image/png",
+    "sizes": "512x512"
+  }
+]
+}
